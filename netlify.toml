@@ -1,0 +1,5 @@
+[build]
+  base = "/"
+  publish = "public/"
+[build.environment]
+  NODE_VERSION = "12.13.0"
